@@ -6,12 +6,13 @@ A comprehensive V2X-based emergency vehicle coordination system using 5G network
 
 ## Features
 1. Core System
+```text
 -5G Network Slicing: Dedicated URLLC slices for emergency vehicles.
 -V2X Communication: Real-time vehicle-to-vehicle and vehicle-to-infrastructure communication.
 -Multi-EV Coordination: Support for 2-3 simultaneous emergency vehicles with priority-based conflict resolution.
 -Token Negotiation: Intelligent corridor token management for multi-EV scenarios.
 -FSM with Hysteresis: Stable state transitions for vehicle behavior.
-
+```
 2. Controllers
 -V2X Cooperative Controller: Full V2X coordination with token negotiation.
 -RL DQN Baseline: Deep Q-Network reinforcement learning baseline.
