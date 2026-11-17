@@ -36,7 +36,7 @@ A comprehensive V2X-based emergency vehicle coordination system using 5G network
 
 
 ## Project Structure
-
+```text
 V2x5G/
 ├── src/
 │   ├── behavior/           # Vehicle behavior controllers
@@ -71,7 +71,7 @@ V2x5G/
 ├── sumo/                   # SUMO configuration
 ├── results/                # Simulation results
 └── docs/                   # Documentation
-
+```
 ## Installation
 
 1. Prerequisites
